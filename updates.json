@@ -1,0 +1,14 @@
+{
+  "addons": {
+    "reconx@local.pentest": {
+      "updates": [
+        {
+          "version": "0.4.2",
+          "update_link": "https://github.com/wahyunugroho-lab/reconx-dist/releases/download/v0.4.2/reconx-0.4.2.xpi",
+          "update_hash": "sha256:256ddd92b725e40c935a2f2969d8fbc48f090b2e757296346f0ae258390d5687",
+          "applications": { "gecko": { "strict_min_version": "115.0" } }
+        }
+      ]
+    }
+  }
+}
